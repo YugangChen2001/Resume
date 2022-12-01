@@ -1,2 +1,2 @@
-About
+### <a name="Summary">Summary</a>
 I'm a senior at Oregon State University. My major is Computer Science and Technology and my minor is Economics. The areas I am most interested in are data analysts and software development. I am proficient in many computer languages such as C, C++, Java and python. In school, I participated in the 10th Lan Qiao Cup: National Software and Information Technology Competition and won the second prize.
